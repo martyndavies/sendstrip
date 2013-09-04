@@ -2,6 +2,8 @@
 
 Always stripping out the name and email address from the SendGrid Inbound Parse Webhook's 'from' field? Never again.
 
+[![Build Status](https://travis-ci.org/martyndavies/sendstrip.png?branch=master)](https://travis-ci.org/martyndavies/sendstrip)
+
 ## Installation
 
 ```html
