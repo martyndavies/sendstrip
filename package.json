@@ -10,7 +10,8 @@
     "underscore": "*"
   },
   "devDependencies": {
-    "should": "*"
+    "should": "*",
+    "mocha": "*"
   },
   "keywords": [
     "email",
