@@ -1,0 +1,22 @@
+{
+  "name": "sendstrip",
+  "version": "0.0.1",
+  "description": "Breaks down the 'from' value of SendGrid's Parse Webhook into components",
+  "main": "sendstrip.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "should": "*"
+  },
+  "keywords": [
+    "email",
+    "sendgrid",
+    "tags"
+  ],
+  "author": "Martyn Davies",
+  "license": "MIT"
+}
